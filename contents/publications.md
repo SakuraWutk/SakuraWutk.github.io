@@ -2,7 +2,7 @@
 
 #### Conference Papers
 
-- Yapeng Li, Peng Xu, Shixin Chen, Jindong Tu, <strong>Tongkai Wu</strong>, Chong Tong, Bei Yu and Tinghuan Chen, "AMigration: Analog placement Migration via Adaptive Constraints Relaxation", ACM/IEEE Design Automation Conference (DAC), Long Beach, July 26-29, 2026.
+
 
 - <strong>Tongkai Wu*</strong>, Beichen Li*, Yapeng Li, Zuxun Duan, Yanshi Liang, Yihe Wang, Baohui Xie, Qunsong Ye, Tinghuan Chen, "GRACE: A Ground Plane Generation and Re-routing Aware Co-design Engine", ACM/IEEE Design Automation Conference (DAC), Long Beach, July 26-29, 2026.
 
