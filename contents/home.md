@@ -1,17 +1,18 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![SakuraWutk](https://img.shields.io/badge/SakuraWutk-github-blue?logo=github)](https://github.com/SakuraWutk)
 
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
-
+I am Tongkai Wu, currently a Ph.D. student at the School of Science and Engineering, The Chinese University of Hong Kong, Shenzhen (CUHKSZ), under the supervision of Prof. Tinghuan Chen. Prior to that, I obtained my B.Eng. degree from School of Integrated Circuits, Shandong University. 
+My research interests are LLM for EDA and physical design.
+Besides research, I love playing basketball, hiking and playing tennis.
 #### Contact
 
-Email: user[at]fas.harvard.edu
+Email: tongkaiwu1[at]link.cuhk.edu.cn
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+Ph.D., Computer and Information Engineering, The Chinese University of Hong Kong, Shenzhen, 2025— Now.\
+B.Eng., Microelectronics, Shandong University, 2021—2025.
 
 #### Research Interests
-Machine Learning for Seismology; Foundation Model; Observational Seismology; Microseismic Monitoring
+LLM for EDA and physical design
 
