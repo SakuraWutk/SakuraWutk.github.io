@@ -2,7 +2,7 @@
 
 
 :root{
-    --h-title-color:#354ce72e;
+    --h-title-color:#1a2585;
 }
 
 .header {
@@ -108,5 +108,4 @@ section .main-body{
         margin: 0;
     }
 }
-
 
