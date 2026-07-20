@@ -4,7 +4,7 @@
 
 I am Tongkai Wu, currently a first year Ph.D. student at [School of Science and Engineering, The Chinese University of Hong Kong, Shenzhen (CUHKSZ)](https://sse.cuhk.edu.cn/), under the supervision of [Prof. Tinghuan Chen](https://mypage.cuhk.edu.cn/academics/chentinghuan/). Prior to that, I obtained my B.Eng. degree from [School of Integrated Circuits, Shandong University](https://ic.sdu.edu.cn/). 
 
-Besides research, I love playing basketball,fitness, hiking and playing tennis.
+Besides research, I love playing basketball, fitness, hiking and playing tennis.
 #### Contact
 
 Email: tongkaiwu1[at]link.cuhk.edu.cn
