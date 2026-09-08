@@ -1,0 +1,173 @@
+/* Jemdoc-inspired academic homepage styling. */
+
+table#tlayout {
+  border: none;
+  border-collapse: separate;
+  background: white;
+}
+
+body {
+  margin: 0;
+  padding-bottom: 8px;
+  background: white;
+  color: #000;
+  font-family: Georgia, "Times New Roman", serif;
+}
+
+#layout-content {
+  padding: 0 1em;
+  border: none;
+  background: white;
+  text-align: left;
+  vertical-align: top;
+}
+
+a {
+  color: #224b8d;
+  text-decoration: none;
+}
+
+a:hover,
+a:focus {
+  border-bottom: 1px dotted gray;
+}
+
+strong {
+  font-weight: bold;
+}
+
+h1,
+h2,
+h3 {
+  margin-top: 0.7em;
+  margin-bottom: 0.3em;
+  padding-top: 0.5em;
+  padding-bottom: 0.2em;
+  border-bottom: 1px solid #aaa;
+  color: #527bbd;
+  line-height: 1;
+}
+
+h1 {
+  margin-top: 0.5em;
+  padding-top: 0;
+  padding-bottom: 0.1em;
+  font-size: 165%;
+}
+
+h2 {
+  padding-top: 0.8em;
+  font-size: 125%;
+}
+
+h2 + h3 {
+  padding-top: 0.2em;
+}
+
+h3 {
+  border-bottom: none;
+  font-size: 110%;
+}
+
+p {
+  margin-top: 0;
+  margin-bottom: 0.8em;
+  padding: 0;
+  line-height: 1.3;
+}
+
+ul,
+ol {
+  margin-top: 0.2em;
+  margin-bottom: 0.8em;
+  padding-top: 0;
+}
+
+ul {
+  list-style-position: outside;
+  list-style-type: square;
+}
+
+li p {
+  margin-bottom: 0.3em;
+}
+
+div#toptitle,
+#toptitle {
+  margin-bottom: 1.5em;
+  padding-bottom: 0.2em;
+  border-bottom: 3px double gray;
+}
+
+#toptitle h1 {
+  margin-bottom: 0;
+  border-bottom: 0;
+}
+
+#toptitle .tagline {
+  margin: 0.2em 0 0;
+  color: #555;
+  font-size: 0.95em;
+}
+
+table.imgtable {
+  border: 0;
+  border-collapse: collapse;
+}
+
+table.imgtable td {
+  padding: 0;
+  border: 0;
+  vertical-align: top;
+}
+
+table.imgtable td.profile-photo-cell {
+  padding-right: 1em;
+}
+
+.profile-photo {
+  display: block;
+  width: 150px;
+  height: 200px;
+  max-width: none;
+  object-fit: cover;
+  object-position: center top;
+}
+
+.profile-details {
+  text-align: left;
+}
+
+#footer {
+  margin-top: 4em;
+  padding-top: 0.35em;
+  border-top: 1px solid #c0c0c0;
+  color: #999;
+  font-size: small;
+}
+
+@media print {
+  body {
+    max-width: none;
+    margin: 0;
+  }
+}
+
+@media (max-width: 600px) {
+  table.imgtable,
+  table.imgtable tbody,
+  table.imgtable tr,
+  table.imgtable td {
+    display: block;
+    width: 100%;
+  }
+
+  table.imgtable td.profile-photo-cell {
+    padding: 0 0 1em;
+  }
+
+  .profile-photo {
+    width: 135px;
+    height: 180px;
+  }
+}
