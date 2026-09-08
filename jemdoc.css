@@ -104,12 +104,6 @@ div#toptitle,
   border-bottom: 0;
 }
 
-#toptitle .tagline {
-  margin: 0.2em 0 0;
-  color: #555;
-  font-size: 0.95em;
-}
-
 table.imgtable {
   border: 0;
   border-collapse: collapse;
