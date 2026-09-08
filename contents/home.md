@@ -10,9 +10,8 @@ Besides research, I love playing basketball, fitness, hiking and playing tennis.
 Email: tongkaiwu1[at]link.cuhk.edu.cn
 
 #### Education
-Ph.D., Computer and Information Engineering, The Chinese University of Hong Kong, Shenzhen, 2025— Now.\
-B.Eng., Microelectronics, Shandong University, 2021—2025.
+Ph.D., Computer and Information Engineering, The Chinese University of Hong Kong, Shenzhen, Sep 2025 - Present.\
+B.Eng., Microelectronics, Shandong University, Sep 2021 - Jun 2025.
 
 #### Research Interests
 LLM for EDA and physical design
-
