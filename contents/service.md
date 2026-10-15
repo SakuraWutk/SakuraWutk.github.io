@@ -6,6 +6,8 @@
 
 - IEEE/ACM Asian and South Pacific Design Automation Conference (ASPDAC)
 
+- IEEE/ACM Proceedings Design, Automation and Test in Europe (DATE)
+
 #### Journal Reviewer
 
 - IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)
