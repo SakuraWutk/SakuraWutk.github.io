@@ -11,7 +11,7 @@ Email: tongkaiwu1[at]link.cuhk.edu.cn
 
 #### Education
 Ph.D., Computer and Information Engineering, The Chinese University of Hong Kong, Shenzhen, Sep 2025 - Present.\
-B.Eng., Microelectronics, Shandong University, Sep 2021 - Jun 2025.
+B.Eng., Microelectronics Science and Engineering, Shandong University, Sep 2021 - Jun 2025.
 
 #### Research Interests
 LLM for EDA and physical design
