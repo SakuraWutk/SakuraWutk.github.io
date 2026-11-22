@@ -14,4 +14,5 @@ Ph.D., Computer and Information Engineering, The Chinese University of Hong Kong
 B.Eng., Microelectronics Science and Engineering, Shandong University, Sep 2021 - Jun 2025.
 
 #### Research Interests
-LLM for EDA and physical design
+- Large Language Models for Electronic Design Automation (EDA)
+- Physical Design Automation
